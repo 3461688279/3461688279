@@ -22,9 +22,6 @@
     <img src="https://img.shields.io/github/stars/3461688279?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
-  <p>
-  <img src="https://profile-counter.glitch.me/{3461688279}/count.svg" alt="访问计数器" />
-  </p>
 </div>
 
 <!-- 添加动态波浪分隔符 -->
