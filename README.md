@@ -11,26 +11,21 @@
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
     <p align="center">
-    <a href="https://github.com/zyh3699"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.kaggle.com/ZephyrZhong248"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-    <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-    <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-    <a href="https://www.xiaohongshu.com/user/profile/622c5ebf0000000010004d2e?xsec_token=YBRk2wo-S5zu-flky-0d4DHr8JEkOphHinCjjU4Wj8U1I=&xsec_source=app_share&xhsshare=CopyLink&appuid=622c5ebf0000000010004d2e&apptime=1743608294&share_id=fefb2644171c4940a89cf150d3705d21"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>
+    <a href="https://github.com/3461688279"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:gitljmx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
     
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=zyh3699&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-    <img src="https://img.shields.io/github/followers/zyh3699?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-    <img src="https://img.shields.io/github/stars/zyh3699?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+    <img src="https://komarev.com/ghpvc/?username=3461688279&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+    <img src="https://img.shields.io/github/followers/3461688279?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+    <img src="https://img.shields.io/github/stars/3461688279?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
     
   </p>
   <p>
-  <img src="https://profile-counter.glitch.me/{zyh3699}/count.svg" alt="访问计数器" />
+  <img src="https://profile-counter.glitch.me/{3461688279}/count.svg" alt="访问计数器" />
   </p>
 </div>
 
@@ -46,7 +41,7 @@
 <tr>
 <td width="34%" valign="top">
 
-> ### 🧠 大语言模型与 AI 系统
+> ### 🧠 大数据分析和处理
 >
 > 🔬 专注于 **大型语言模型(LLMs)训练**
 > 🤖 探索 **多智能体系统架构**  
@@ -113,14 +108,14 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3461688279&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3461688279&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3461688279&theme=radical" width="33%" />
 
 </div>
   
   <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zyh3699&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
+  <img src="https://github-profile-trophy.vercel.app/?username=3461688279&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 </div>
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
@@ -130,17 +125,17 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/zyh3699/dream-maze">
+  <a href="https://github.com/3461688279/dream-maze">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
-  <a href="https://github.com/zyh3699/doctopus">
+  <a href="https://github.com/3461688279/doctopus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyh3699&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
 <!-- 添加项目按钮 -->
 <div align="center">
-  <a href="https://github.com/zyh3699?tab=repositories">
+  <a href="https://github.com/3461688279?tab=repositories">
     <img src="https://img.shields.io/badge/更多项目-查看全部-%23FF5F6D?style=for-the-badge&logo=github" alt="查看更多项目" />
   </a>
 </div>
@@ -215,11 +210,3 @@
     </a>
   </p>
 </div>
-
-<!-- 页脚 -->
-<p align="center">
-  <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
-</p>
-
-<!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
