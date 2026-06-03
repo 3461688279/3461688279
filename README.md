@@ -188,21 +188,10 @@
 
 <div align="center">
   <p>本模板采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
-  
-  <p>您可以自由地：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>✅ 使用本模板创建个人 GitHub Profile</li>
-    <li>✅ 修改和定制以满足您的需求</li>
-    <li>✅ 分发您修改后的版本</li>
-  </ul>
-  
-  <p>条件是：</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>📝 保留原始版权声明</li>
-    <li>📝 不追究作者责任</li>
-  </ul>
-  
-  <p>
+  <h2>
+   模板设计灵感来源：© Zephyr Zhong (https://github.com/zyh3699)
+  </h2>
+    <p>
     <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
     </a>
