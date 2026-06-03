@@ -6,7 +6,6 @@
   # 👋 Hello，here is Gitljmx
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=cser+%7C+freshmen+%7C+geeker;Explore new;Coding;Stay curious)](https://git.io/typing-svg)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=geeker者+%7C+DB研究者+%7C+创新者;Coding;Explore new;Stay curious)](https://git.io/typing-svg)
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
